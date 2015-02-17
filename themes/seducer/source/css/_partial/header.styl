@@ -37,15 +37,16 @@
   text-align: center
   height: logo-size
   position: absolute
-  top: 50%
-  left: 0
+  top: 40%
+  left: -15%
   margin-top: logo-size * -0.5
 
 $logo-text
   text-decoration: none
-  color: #fff
+  color: #424242
   font-weight: 300
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3)
+  font-family: 'MS PGothic', Osaka, Arial, sans-serif
 
 #logo
   @extend $logo-text
@@ -60,7 +61,18 @@ $logo-text
   letter-spacing: 1px
 
 #subtitle-wrap
-  margin-top: subtitle-size
+  margin-top: subtitle-size * 0.3
+  margin-left: 10%
+
+#between-title
+  @extend $logo-text
+  color: #FA5882
+  font-size: subtitle-size * 0.7
+  line-height: subtitle-size * 0.8
+  letter-spacing: 1px
+
+#between-title-wrap
+  margin-top: subtitle-size * 0.3
 
 #main-nav
   float: left
