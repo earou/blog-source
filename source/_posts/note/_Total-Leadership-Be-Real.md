@@ -7,14 +7,6 @@ categories: 學習筆記
 
 ---
 
-三個階段：
-
-- Be Real
-- Be Whole
-- Be Creative
-
-## Be Real
-
 在 Be Real 階段必須認清什麼是重要的，對一個領導者而言
 
 - What are my core values and beliefs about leadership?
@@ -22,7 +14,7 @@ categories: 學習筆記
 - What would my legacy as a leader be
 when my life is over?
 
-### 講故事
+## 講故事
 
 過去的經驗朔造出我們每個人，又有哪些人成為你生命中的一部分。
 而過去你所經歷的任何重大事件（對個人而言），
@@ -40,9 +32,40 @@ when my life is over?
 
 此外，一般人會因為暴露過多多真實自我而感到害怕（包括筆者），特別是一些痛苦的回憶。越能敞開心胸對別人講述真實故事，越能拉近人與人之間的距離，
 
+### 單元練習：
 
+## Leadership Vision
+
+> An effective leadership vision is a
+> compelling image of an achievable future.
+
+- 找出什麼是對你來說最在乎的
+- 你想要完成什麼在人生結束以前
+- 以及想要成為什麼樣的領導者
+
+定義一個好的 leadership vision，具備以下條件：
+
+- 立足于過去，著眼現在（你是誰，你支持什麼）與未來
+	- 這個願景必須能激勵自己和將自己託付給你的人
+- 對自身而言富有意義，幫助成為完整的自我
+- 必須是熱情的，有希望的，包含的
+
+15 年後你的生活會是什麼樣子，有什麼影響，將擁有些什麼
+
+寫下一個願景，並問問自己，這個願景有辦法激勵自己嗎？
+
+如果是，這個願景將帶給你：
+
+- 明確的方向，你會知道必須做什麼和不能做什麼
+- 給你一個穩定的力量，集中注意力在達成目標上面
+
+當你有熱情，目標明確時。別人也會感受到，因而想成為其中一份子，一起完成。
+
+**Tip:**
+> Do your best to write about how your life
+> is making the world better in some way.
 
 ### 單元練習：
 
-
+## Four Way View
 
