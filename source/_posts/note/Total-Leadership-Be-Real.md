@@ -1,21 +1,34 @@
-title: Total Leadership - Be Real
-date: 2015-02-23 17:47:10
+title: Be Real 許願的習作簿
+date: 2015-03-05 06:30:10
 tags:
  - Coursera
  - 自我成長
+ - Total Leadership
 categories: 學習筆記
 
 ---
 
-前序：[Total Leadership]
+![日劇：求婚大作戰](/images/note/tl/propose.jpg)
 
-**Be Real**，是一個自我認識的階段，也是一個創造內在力量的過程。首先要能誠實的面對自己，了解自己真正在意的是什麼。以下節錄自課程影片，捫心自問以下三個問題：
+前序：[Total Leadership - 人生可以不是一場零和遊戲](/2015/03/04/note/Total-Leadership/#main)
 
-- What are my core values and beliefs about leadership?
-- What kind of leader do I want to become?
-- What would my legacy as a leader be
+**Be Real**，是一個自我認識的階段，也是一個創造內在力量的過程。首先要能誠實的面對自己，了解自己這輩子真正在乎的人事物。以下節錄自課程內容，捫心自問以下三個問題：
+
+ - What are my core values and beliefs about leadership?
+ - What kind of leader do I want to become?
+ - What would my legacy as a leader be
 when my life is over?
 
+相當的抽象，對吧？別擔心，這裡為各位介紹 4 個絕妙心法。他們分別是：
+
+ - 講自己的故事
+ - 定義明確的願景
+ - 檢視生活的四種面向
+ - 學習如何指導與聆聽
+
+再次強調，這門課介紹的所有方法都是經過學術驗證的，至今已有上千個 Wharton 學生成功地實踐在自己的生活當中，這篇文章僅僅是筆者個人的心得和學習筆記，強烈建議有興趣想要改善自己生活的讀者，在 Coursera 親自體驗[這門課程](https://www.coursera.org/course/totalleadership)，是完全免費的。
+
+<!-- more -->
 
 ## 講故事
 
